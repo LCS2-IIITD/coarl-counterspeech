@@ -5,7 +5,7 @@
 
 2. Install dependencies
 ```shell
-cd oarl-counterspeech
+cd coarl-counterspeech
 poetry install
 git init
 git add .

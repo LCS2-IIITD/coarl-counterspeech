@@ -17,7 +17,6 @@ git commit -m "add: initial commit."
 | File                                      | Description                                                                  |
 | ----------------------------------------- | ---------------------------------------------------------------------------- |
 | **project**                               | Main directory containing all the code            |
-| **project/data**                          | Data directory containing the train, test and annotation files |
 | **project/creds**                         | Directory containing all API access credentials ( project-debator / open-ai / aws)|
 | **project/runs**                              | Directory to keep track of all model runs (train / eval). For each run, we store the best_model, classfication args, eval results, metrics, etc.  |
 | **project/utils**                             | Program containing utility functions              |
